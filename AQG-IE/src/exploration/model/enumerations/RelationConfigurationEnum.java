@@ -1,0 +1,13 @@
+package exploration.model.enumerations;
+
+public enum RelationConfigurationEnum {
+
+	PERSON_S_CAREER_CRF,
+	NATURALDISASTER_SVM_LOCATION_S,
+	MANMADEDISASTER_CRF_LOCATION_S,
+	PERSON_S_LOCATION_S,
+	POLITICALEVENT_CRF_PERSON_S,
+	CHARGE_CRF_PERSON_S, 
+	ANY,
+	
+}
